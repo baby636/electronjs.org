@@ -64,7 +64,7 @@
     "got": "^11.8.2",
     "gray-matter": "^4.0.2",
     "helmet": "^4.6.0",
-    "http-proxy-middleware": "^1.1.1",
+    "http-proxy-middleware": "^2.0.9",
     "instantsearch.js": "^2.10.4",
     "lil-env-thing": "^1.0.0",
     "lobars": "^1.2.0",
@@ -90,7 +90,7 @@
     "ultimate-pagination": "^1.0.0"
   },
   "devDependencies": {
-    "@octokit/action": "^3.10.2",
+    "@octokit/action": "^7.0.2",
     "@types/cookie-parser": "^1.4.2",
     "@types/express": "^4.17.11",
     "babel-loader": "^8.2.2",
